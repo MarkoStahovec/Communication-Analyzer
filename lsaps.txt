@@ -1,0 +1,18 @@
+00 Null LSAP
+02 Individual LLC Sublayer Mgt
+04 SNA Path Control
+0E ProWay-LAN
+42 STP
+4e EIA-RS 511
+5e ISI IP
+7e ISO 8208
+80 XNS
+82 BACnet
+86 Nestar
+8e ProWay-LAN (IEC 955)
+98 ARPANET
+a6 RDE
+aa SNAP
+bc Banyan VINES
+e0 IPX
+f0 IBM NetBIOS
